@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rows</key>
+	<array>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>tag</key>
+							<string>blue</string>
+							<key>description</key>
+							<string>lives on 2nd floor with Ross</string>
+							<key>title</key>
+							<string>Weston</string>
+						</dict>
+						<dict>
+							<key>tag</key>
+							<string>green</string>
+							<key>description</key>
+							<string>lives with Robbie on second floor</string>
+							<key>title</key>
+							<string>Peter</string>
+						</dict>
+						<dict>
+							<key>tag</key>
+							<string>green</string>
+							<key>description</key>
+							<string>went to study abroad Fall 2010</string>
+							<key>title</key>
+							<string>Mark</string>
+						</dict>
+						<dict>
+							<key>tag</key>
+							<string>purple</string>
+							<key>description</key>
+							<string>works for Apex Windows</string>
+							<key>title</key>
+							<string>Mr. Mackinney</string>
+						</dict>
+						<dict>
+							<key>tag</key>
+							<string>green</string>
+							<key>description</key>
+							<string>Going on missions trip to EA</string>
+							<key>title</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>House</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array/>
+					<key>description</key>
+					<string>student at the U of M.</string>
+					<key>image</key>
+					<string>weston.jpg</string>
+					<key>title</key>
+					<string>Weston</string>
+				</dict>
+				<dict>
+					<key>address</key>
+					<string>600 Washington Ave SEMinneapolis, MN 55414</string>
+					<key>children</key>
+					<array/>
+					<key>description</key>
+					<string>Espresso Expose description - fill with content</string>
+					<key>image</key>
+					<string>espressoexpose.jpg</string>
+					<key>phone</key>
+					<string>(612) 623-8127</string>
+					<key>subtitle</key>
+					<string></string>
+					<key>title</key>
+					<string>Espresso Expose</string>
+				</dict>
+				<dict>
+					<key>address</key>
+					<string>15 Washington Avenue Southeast Minneapolis, MN 55414</string>
+					<key>children</key>
+					<array/>
+					<key>description</key>
+					<string>Starbucks on Washington description - fill with content later</string>
+					<key>image</key>
+					<string>starbucks.jpg</string>
+					<key>phone</key>
+					<string>(612) 378-7765</string>
+					<key>subtitle</key>
+					<string>@ Washington Ave</string>
+					<key>title</key>
+					<string>Starbucks (Washington)</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Coffee Shops</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+
+Notes from Friday March 25 Meeting.
+-- notes added by Weston Platter (plat0136@umn.edu)
+
+current decisions before the group
+ 
+ 1. what elements should be on the iPhone UI?
+   > splash page
+   > home page
+   > first search screen
+   > what elements do we display through out the slection process?
+   > DetailViewController (variable and static information)
+
+ 2. how should the search backend function?
+   > how do we have a flat data structure but allow for multi-layer searches
+   > mulitple .plist files? XML sort/search algorithm?
+
+
