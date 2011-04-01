@@ -109,10 +109,6 @@
         
         // dictionary SEARCH TESTING
         
-        NSDictionary *search = [dictionary dictionaryWithObjectsAndKeys:@"title" forKey:@"Westion", nil];
-        
-        NSLog(@"search == %@", search);
-        
         /*
          //Quick NSLog Test
          if (dvController.detailDictionary == NULL) {
