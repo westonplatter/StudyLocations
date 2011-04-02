@@ -2,8 +2,7 @@
 //  detailViewController.m
 //  studyLocations
 //
-//  Created by westy on 3/27/11.
-//  Copyright 2011 Weston Platter. All rights reserved.
+//  Copyright 2011 Nikola Tesla Patent Producers. All rights reserved.
 //
 
 #import "detailViewController.h"
