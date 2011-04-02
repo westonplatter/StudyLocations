@@ -1,10 +1,6 @@
-
 Copyright 2011 Nikola Tesla Patent Producers. All rights reserved.
 
-Notes from Friday March 25 Meeting.
--- notes added by Weston Platter (plat0136@umn.edu)
-
-current decisions before the group
+Current decisions before the group
  
  1. what elements should be on the iPhone UI?
     > splash page
