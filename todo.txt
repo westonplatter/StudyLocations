@@ -14,3 +14,4 @@ current decisions before the group
 
  notes added by Weston Platter (plat0136@umn.edu)
 
+this is a test
