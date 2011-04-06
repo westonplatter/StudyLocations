@@ -13,4 +13,3 @@ current decisions before the group
    > mulitple .plist files? XML sort/search algorithm?
 
  notes added by Weston Platter (plat0136@umn.edu)
- second test to track fetch and pull features.
